@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/-jQuery-FFB4B9?style=flat-square&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
@@ -31,7 +31,7 @@
 
 <h3 align="center">Programming</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-AAB9FF?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-50B4F5?style=flat-square&logo=Cplusplus&logoColor=white"/>
