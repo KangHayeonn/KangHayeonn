@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-cpp-A8B9CC?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpp&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/-Kotlin-F88218?style=flat-square&logo=kotlin&logoColor=white"/>
   <br>
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Adobe PhotoShop-31A8FF?style=flat-square&logo=Adobe-PhotoShop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-9999FF?style=flat-square&logo=Jupyter Notebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter Notebook-9999FF?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Adobe XD-F05032?style=flat-square&logo=Adobe-XD&logoColor=white"/>
 </p>
 
