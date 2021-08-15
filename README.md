@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/-Node.js-66EC66?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-0A6E0A?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-339933?style=flat-square&logo=Spring&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Python-AAB9FF?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-50B4F5?style=flat-square&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/-CPP-A8B9CC?style=flat-square&logo=C++&logoColor=white"/>
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-atom-E6749D?style=flat-square&logo=Atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-atom-55EE94?style=flat-square&logo=Atom&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Visual Studio-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
