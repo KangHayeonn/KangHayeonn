@@ -18,8 +18,9 @@
   <!--<img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>-->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-0A6E0A?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-339933?style=flat-square&logo=Spring&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white"/>
@@ -47,7 +48,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-atom-55EE94?style=flat-square&logo=Atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Visual Studio-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
@@ -57,6 +58,7 @@
   <img src="https://img.shields.io/badge/-Jupyter Notebook-9999FF?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Adobe XD-FFB4B9?style=flat-square&logo=Adobe-XD&logoColor=white"/>
 </p>
+<br>
 <br>
 
 <div display="flex" flex-direction="row">
