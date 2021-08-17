@@ -72,3 +72,4 @@
   <a href="https://www.instagram.com/lovelyeoneee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
   <a href="https://www.notion.so/Study-with-Hayeon-7090431c9153482d97e87f0ea318a828"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
+
