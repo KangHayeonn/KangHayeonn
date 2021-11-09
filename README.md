@@ -1,6 +1,6 @@
 # HAYEON
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkdgkdus522)](https://solved.ac/profile/rkdgkuds522)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkdgkdus522)](https://solved.ac/profile/rkdgkdus522)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HayeonKang&fontSize=90" width="100%" />
 
