@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=Styled-Components&logoColor=white"/>
 </p>
 
 <h3 align="center">Back End</h3>
@@ -77,6 +80,9 @@
   <br>
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 <br>
 <br>
@@ -90,6 +96,5 @@
 <p align="center">
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
   <a href="https://www.instagram.com/lovelyeoneee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
-  <a href="https://sudsy-canary-c0d.notion.site/Study-with-Hayeon-7090431c9153482d97e87f0ea318a828"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
