@@ -11,12 +11,13 @@
 </p>
 
 ---
+
 ```
-Hi!👋 I'm Web Developer **Lydia**👩‍💻
+Hi!👋 I'm Web Developer, Lydia.👩‍💻
 
 I think configuration management and continuous code review is important for collaboration.💕
 
-I always interested in Clean Code, Optimizing Performance.✨
+I always interested in Clean Code and Optimizing Performance.✨
 
 I'm trying to study steadily.🌲
 
