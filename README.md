@@ -112,8 +112,9 @@ Thank you for coming here.🙏
 
 <!--
 <h2 align="center">Me</h2>
-<p align="center">
+<p align="center">-->
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
+<!--
   <a href="https://velog.io/@lovelyeonee/"><img src="https://img.shields.io/badge/Velog-00A98F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@lovelyeonee"/></a>
   <a href="https://www.instagram.com/lovelyeoneee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lovelyeoneee/"/></a>
 </p>
