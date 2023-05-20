@@ -104,9 +104,11 @@ Thank you for coming here.🙏
 <br>
 <br>
 
+<!--
 <div display="flex" flex-direction="row">
   <img src="https://github-readme-stats.vercel.app/api?username=KangHayeonn&theme=dracula&show_icons=true" width="57.3%" height="300px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangHayeonn&layout=compact&theme=dracula&show_icons=true&langs_count=10" width="42.2%" height="300px" padding-left="10px"/>
+-->
 
 <h2 align="center">Me</h2>
 <p align="center">
